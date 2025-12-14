@@ -9,7 +9,7 @@ A production-ready Docker image that combines **Python 3.13.3** with **FFmpeg**,
 
 ## 🎯 What is this?
 
-`python-ffmpeg` is a Docker image built on `python:3.13-slim` with FFmpeg pre-installed and configured. It serves as a **drop-in replacement** for the standard Python slim image, but with multimedia processing capabilities built right in.
+`python-ffmpeg` is a Docker image built on `python:3.13-slim` with FFmpeg and Git pre-installed and configured. It is the standard Python slim image, but with multimedia processing capabilities built right in.
 
 ## 🚀 Why use this image?
 
@@ -28,6 +28,7 @@ Setting up FFmpeg alongside Python applications can be time-consuming and error-
 - **Content management systems**
 - **Streaming applications**
 - **Data analysis involving multimedia files**
+- **Git integration for version control**
 
 ## 📦 Quick Start
 
@@ -187,6 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built on the excellent [official Python Docker images](https://hub.docker.com/_/python)
 - FFmpeg for providing the powerful multimedia framework
+- Git for VCS support
 
 ## 📞 Support
 
@@ -194,5 +196,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Docker Hub**: [eswardudi/python-ffmpeg](https://hub.docker.com/r/eswardudi/python-ffmpeg)
 
 ---
+
+<div align="center">If you found this image helpful, please consider giving it a star 🌟! It helps others find the project and encourages ongoing improvements</div>
 
 **⭐ If this project helped you, please give it a star!**
