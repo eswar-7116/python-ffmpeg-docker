@@ -197,6 +197,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">If you found this image helpful, please consider giving it a star 🌟! It helps others find the project and encourages ongoing improvements</div>
-
-**⭐ If this project helped you, please give it a star!**
+<div align="center"><b>If you found this image helpful, please consider giving it a star 🌟! It helps others find the project and encourages ongoing improvements</b></div>
